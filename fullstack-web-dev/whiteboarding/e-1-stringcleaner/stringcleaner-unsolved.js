@@ -15,7 +15,11 @@
 // input number params: n>=0 && n<=arr.length
 
 function stringClean(str) {
-    // YOU CODE HERE
+    // def stringClean(str) as loop through len(str);
+    for i in str(i)
+    if i={0, 9};
+    set i to ' ';
+    return str
 }
 
 console.log(stringClean('Thi3s looks65 awesom4e!'));
